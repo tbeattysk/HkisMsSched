@@ -1,4 +1,4 @@
 module.exports = {
-	appId = "",
-	jsKey = ""
+	appId = "test",
+	jsKey = "test"
 }
