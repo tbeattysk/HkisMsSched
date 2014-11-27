@@ -1,0 +1,17 @@
+{
+	"name" 				: "node-schedules",
+	"version"			: "0.0.0",
+	"description"		: "A simple app for getting today's schedule",
+	"main"				: "server.js",
+	"author"			: "Beatty",
+	"dependencies"		: {
+		"express"		: "~4.7.3",
+		"mongoose"		: "~3.6.2",
+		"morgan"		: "~1.2.2",
+		"body-parser"	: "~1.5.2",
+		"method-override": "~2.1.2"
+	},
+	"repository"		: {
+		
+	}
+}
